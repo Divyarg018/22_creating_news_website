@@ -1,5 +1,5 @@
 //49a8ae182ee34c94a28ba734ad5c6a7b
-let source = 'bbc-news';
+let source = 'the-times-of-india';
 let apiKey = '49a8ae182ee34c94a28ba734ad5c6a7b'
 let newsAccordion = document.getElementById('newsAccordion');
 
